@@ -1,10 +1,10 @@
 # AtliQ-Hotels-Data-Analysis-Project-Using-Python
 
-**# Problem Statement**
+# Problem Statement:
 
 Atliq Grands, a prominent player in India's hotel industry, is facing increased competition and declining revenue. To tackle these challenges, the management team has decided to leverage data and strategic insights. Without in-house data expertise, they have sought external help to analyze the situation, provide actionable insights, and develop effective strategies for customer retention and revenue growth.
 
-**# Project Goal:**
+# Project Goal:
 
 The goal of this project is to perform a comprehensive analysis of the hotel domain using Python. Through data-driven insights and strategic recommendations, the aim is to empower Atliq Grands to make informed decisions and regain a competitive edge in the industry..
 
